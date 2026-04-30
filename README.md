@@ -54,6 +54,11 @@ Written in **bare-metal C** using the **STM32 HAL** library and configured with 
 - Main loop execution time measured and displayed on LCD line 3 via `HAL_GetTick()`
 - Standalone operation — powered via MB-102 module with JP5 set to E5V mode, no USB required
 ---
+
+### Functional Model + Flowchart
+
+![](/Figures/functionalmodel.png)
+![](/Figures/flowchart.png)
  
 ## Project Structure
  
