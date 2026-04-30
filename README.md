@@ -1,7 +1,8 @@
 # STM32 Portable Proximity Warning System
  
 A portable, battery-powered embedded proximity warning system built on the **STM32L476RG Nucleo-64**. Measures distance using an HC-SR04 ultrasonic sensor, displays live readings on a serial LCD, and drives a three-LED indicator array based on proximity zones.
- 
+
+![](/Figures/IMG_3462.JPG)
 ---
  
 ## Demo
